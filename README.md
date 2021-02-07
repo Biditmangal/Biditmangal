@@ -4,7 +4,7 @@
 ![Bidit's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Biditmangal&layout=compact&bg_color=05668d,028090,00a896&title_color=02c39a&text_color=f0f3bd&icon_color=02c39a)
 &nbsp;&nbsp;  
 
-![Bidit's Github Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=Biditmangal)
+![Bidit's Github Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=Biditmangal&theme=vue-dark&background=028090&currStreakNum=f0f3bd&sideNums=f0f3bd&ring=00a896&fire=00a896)
 ### Connect with Me!!
 
 <a href="https://www.linkedin.com/in/bidit-mangal/">
